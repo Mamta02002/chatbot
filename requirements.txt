@@ -4,3 +4,4 @@ Tensorflow
 Numpy
 Pandas
 Gunicorn
+nltk

@@ -1,5 +1,5 @@
 Flask
-Sklearn
+Scikit-learn
 Pickle
 Tensorflow
 Numpy

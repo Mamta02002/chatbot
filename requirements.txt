@@ -1,0 +1,7 @@
+Flask
+Sklearn
+Pickle
+Tensorflow
+Numpy
+Pandas
+Gunicorn
